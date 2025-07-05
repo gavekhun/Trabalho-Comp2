@@ -61,17 +61,6 @@ streamlit run app.py
 
 ---
 
-## 📷 Capturas de Tela
-
-*(Adicione imagens reais do seu dashboard na pasta **`imagens/`** e referencie aqui.)*
-
-```markdown
-![Dashboard - Filtros Ativos](imagens/filtros.png)
-![Gráfico de Países](imagens/paises.png)
-```
-
----
-
 ## 📚 Dataset
 
 - **Fonte:** Kaggle – [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
@@ -84,6 +73,7 @@ streamlit run app.py
 
 - Gabriel Tiburcio
 - Pedro Castro
+- Yuhui Chen
 
 ---
 
