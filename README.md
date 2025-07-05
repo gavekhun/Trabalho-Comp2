@@ -54,7 +54,7 @@ pip install streamlit pandas matplotlib plotly
 3. Execute o dashboard com:
 
 ```bash
-streamlit run app.py
+streamlit run netflix-analise-pt2.py
 ```
 
 4. O navegador abrirá com a aplicação interativa.
